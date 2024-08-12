@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wh1teh0rs3
 - 👀 I’m interested in ...becoming a software engineer 
-- 🌱 I’m currently learning ... data structure and algorithms 
+- 🌱 I’m currently learning ... data structures and algorithms 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i LOVE pizza!!!
 
